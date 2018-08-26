@@ -1,0 +1,12 @@
+{
+    "usuarios": [
+        {
+            "email": "ja.llamazares@gmail.com",
+            "password": "123456"
+        },
+        {
+            "email": "bocalandro@hotmail.es",
+            "password": "123456"
+        }
+    ]
+}
